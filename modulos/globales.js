@@ -1,9 +1,20 @@
-let i = 0;
+// Ubicación de ficheros
+// console.log(__dirname);
+// console.log(__filename);
 
-let intervalo = setInterval(function() {
-    console.log('Hola');
-    if(i === 3){
-        clearInterval(intervalo);
-    }
-    i++;
-},1000);
+// Timers
+// console.log(setInterval);)
+// console.log(clearInterval);
+// console.log(setTimeout);
+// console.log(clearTimeout);
+// console.log(setInmediate);
+
+// Modules
+// console.log(exports);
+// console.log(module);
+// console.log(require);
+
+// Seteando variables globales
+// global.test = 'Ejemplo';
+// console.log(test);
+// console.log(global.test);
